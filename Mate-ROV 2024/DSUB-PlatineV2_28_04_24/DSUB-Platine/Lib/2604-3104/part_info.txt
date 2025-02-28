@@ -1,0 +1,9 @@
+Manufacturer=Wago
+PartNumber=2604-3104
+PartCategory=Connector
+PackageCategory=Other
+PinCount=8
+Version=6.1
+Released=2023-06-26 07:45:45
+Downloaded=2024-04-08 19:47:04
+3D=Y
